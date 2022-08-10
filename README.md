@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 💬 Ask me about **Data Structure and Algorithms, Web Development and content creation**
+- 💬 Ask me about **Data Structure and Algorithms, Web Development and Content Creation**
 
 - 📫 How to reach me **rahulrks9805@gmail.com**
 
