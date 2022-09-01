@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp2.licdn.com/dms/image/C4E16AQHu1XybeuJPGw/profile-displaybackgroundimage-shrink_350_1400/0/1616712851469?e=1661385600&v=beta&t=ustxbLarCERTTuI07GA-5EorLLwIT52fspA1AStBEy4)](https:/RahulKumarSah12.io/)
+[![MasterHead](https://nitrkl.ac.in/eptp/images/fraction-slider/101.jpg)](https:/RahulKumarSah12.io/)
 <h1 align="center">Hi 👋, I'm Rahul Kumar Sah</h1>
 <h3 align="center">A learner|| Currently doing Btech from NIT Rourkela|| Running an instagram page @5mincode</h3>
 <img align="right" width="400" src="https://fairchanceforcrm.com/wp-content/uploads/2021/01/sales-manager-openings.gif" alt="Coding">
