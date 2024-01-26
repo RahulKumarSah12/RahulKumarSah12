@@ -1,6 +1,6 @@
 [![MasterHead](https://nitrkl.ac.in/eptp/images/fraction-slider/101.jpg)](https:/RahulKumarSah12.io/)
 <h1 align="center">Hi 👋, I'm Rahul Kumar Sah</h1>
-<h3 align="center">"C++ Developer | Frontend Web Developer | Learning in Angular | Passionate about Crafting Innovative Solutions"</h3>
+<h3 align="center">"C++ Developer | Frontend Web Developer | Learning Angular | Passionate about Crafting Innovative Solutions"</h3>
 <img align="right" width="400" src="https://fairchanceforcrm.com/wp-content/uploads/2021/01/sales-manager-openings.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumarsah12&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumarsah12" /> </p>
